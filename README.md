@@ -212,12 +212,3 @@ http://localhost:3000/api
 - Includes validation schema (`CreatePlanDto`, `ActivatePolicyDto`, etc.)
 
 ---
-
-## 👩🏽‍💻 Author
-
-**Maritha Miracle**  
-Backend Engineer — MyCoverGenius Technical Assessment  
-📧 marithamiracle@gmail.com  
-🔗 [GitHub: MarithaMiracle](https://github.com/MarithaMiracle)
-
----
